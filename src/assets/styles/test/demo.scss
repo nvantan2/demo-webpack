@@ -1,0 +1,15 @@
+// @import '~bootstrap';
+
+$color: red;
+
+.demo-scss {
+  display: flex;
+  color: $color;
+  background-image: url("../../images/pexels-jarod-lovekamp-3791466.jpg");
+}
+
+.hi{
+  background-image: url("../../images/demo/pexels-jarod-lovekamp-3791466.jpg");
+}
+
+// comment scss
